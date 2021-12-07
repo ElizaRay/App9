@@ -1,0 +1,37 @@
+body {
+    background-color: lightblue;
+  }
+  
+  form{
+    text-align: center;
+  }
+  
+  h1{
+    text-align: left;
+    color: blueviolet;
+  }
+  
+  ul {
+    border-left: 5px solid rgb(196, 4, 255, 0.753);
+    background-color: #f1f1f1;
+    list-style-type: none;
+    padding: 10px 20px;
+  }
+  h3{
+  
+      font-family: "Lucida Console", "Courier New", monospace;
+    
+  }
+
+  #H3{
+    background-color:rgb(214, 255, 30);
+  }
+
+  #hl{
+    background-color: rgb(240, 117, 46);
+  }
+  #btn1{
+    background-color: #00ff00;
+    
+  }
+  

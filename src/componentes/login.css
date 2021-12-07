@@ -1,0 +1,36 @@
+body{
+    text-align: justify;
+}
+#btn1{
+    background-color: #00ff00;
+    
+}
+
+button{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#H3{
+    background-color: rgb(214, 255, 30);
+    color: rgb(231, 54, 193);
+    
+    
+}
+
+#imgA{
+  
+    align-items:center;
+}
+
+input{
+    text-align: center;
+}
+
+#backbox{  
+    background-color:#d2b48c;
+    width: 30%;
+    height: 90%;
+    position:static;
+    top:20%;
+    
+  }

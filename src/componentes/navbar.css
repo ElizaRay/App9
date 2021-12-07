@@ -1,0 +1,13 @@
+input{
+    float:right;
+}
+button{
+     align-items:right;
+     border: solid;
+    /*border-color: #7D8471;*/
+    border-radius: 50px;
+   /* background-color: #7D8471;*/
+    /*color: white;*/
+    padding: 0.3em;
+    float: right;
+}
